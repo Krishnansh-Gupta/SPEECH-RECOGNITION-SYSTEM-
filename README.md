@@ -34,3 +34,5 @@ Low-resource languages
 Real-time processing limitations on embedded systems
 Conclusion
 Speech recognition systems represent a significant advancement in human-computer interaction, enabling more intuitive and hands-free control over devices. As technology progresses, these systems are becoming more accurate, efficient, and accessible. Whether used in personal gadgets, industrial applications, or assistive technology, speech recognition plays a vital role in making technology more human-centric.
+*OUTPUT*-
+<img width="438" height="275" alt="Image" src="https://github.com/user-attachments/assets/60340f99-5647-4608-9d40-69b98c784943" />
